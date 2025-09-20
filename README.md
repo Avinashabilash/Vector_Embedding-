@@ -1,6 +1,6 @@
 # 🌟 Word Embedding Analogy Project
 
-#wordembedding  
+ 
 
 ## 🚀 Project Overview
 The **Word Embedding Analogy Project** explores the fascinating world of **word embeddings** and **semantic relationships** between words. Using pre-trained embeddings like **GloVe** and **SentenceTransformers**, this project evaluates analogies, such as **male-female**, **country-language**, and more. It demonstrates how machines can understand word similarities and relationships through **vector arithmetic**.
