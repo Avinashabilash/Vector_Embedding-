@@ -33,7 +33,6 @@ The **Word Embedding Analogy Project** explores the fascinating world of **word 
 - [Dataset](#-dataset)  
 - [Results](#-results)  
 - [Contributing](#-contributing)  
-- [License](#-license)  
 
 ---
 
